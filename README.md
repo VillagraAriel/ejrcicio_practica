@@ -1,2 +1,3 @@
-# ejrcicio_practica
-ejercicio de prectica
+
+ejrcicio_practica
+ejercicio de prectica para github
